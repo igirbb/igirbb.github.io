@@ -1,0 +1,29 @@
+#body{
+    background-color: black;
+}
+
+#font{
+    font-family:'  font-family: 'Amatic SC Regular', arial;'
+    font-size: 3vw;
+    background-image: linear-gradient(to right, deeppink, dodgerblue);
+    color: transparent;
+    -webkit-background-clip: text;
+    display: inline-block;
+}
+
+#logos a{
+    color: dodgerblue;
+}
+#logos a:hover{
+    color: deeppink;
+}
+
+
+
+
+
+.portport:hover{
+    width: 400px;
+    height: 400px;
+    background-image:-moz-linear-gradient(to right, deeppink, dodgerblue);
+}
